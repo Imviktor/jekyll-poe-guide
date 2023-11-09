@@ -1,0 +1,13 @@
+<input type="radio" name="tabs" id="tab{{ include.i }}" checked="checked" />
+<label for="tab{{ include.i }}">{{ include.type }}</label>
+<div class="tab">
+    <div class="card-header">
+        <span class="fs-5">iLvl: {{ include.ilvl }}</span>
+        <code class="py-3 px-4 fs-3">{{ include.filter }}</code>
+        <a class="btn" target="_blank" href="https://www.pathofexile.com/trade/search/Ancestor/{{ include.e }}">Base item</a>
+    </div>
+    <details class="fs-2">
+        <summary>Looking for</summary>
+        <ul class="fs-4">{{ include.look }}</ul>
+    </details>
+</div>
