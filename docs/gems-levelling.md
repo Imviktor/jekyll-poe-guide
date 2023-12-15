@@ -49,16 +49,16 @@ waste much time on investigating.
 
 |   | Skill | 20/20  | 21/20  | 21/0 |
 |--:|:------|:-------|:-------|:-----|
-| {%include img.html path="d/d8/Determination_inventory_icon.png" s="30"%}       | **Determination**       | Useless | {%include trade.html e="zb08zKc4"%} | {%include trade.html e="lVjqY2IV"%}  |
-| {%include img.html path="c/c5/Vitality_inventory_icon.png" s="30"%}            | **Vitality**            | Useless | {%include trade.html e="eRYvrUL"%}  | {%include trade.html e="8L6DE2IV"%}  |
-| {%include img.html path="7/78/Purity_of_Fire_inventory_icon.png" s="30"%}      | **Purity of Fire**      | Useless | {%include trade.html e="ZWppzSQ"%}  | {%include trade.html e="YbEX2XsY"%}  |
-| {%include img.html path="3/39/Herald_of_Purity_inventory_icon.png" s="30"%}    | **Herald of Purity**    | Useless | {%include trade.html e="RW562BS7"%} | {%include trade.html e="pGlW0ef0"%}  |
-| {%include img.html path="5/57/Hatred_inventory_icon.png" s="30"%}              | **Hatred**              | Useless | {%include trade.html e="v4BlXTE"%}  | {%include trade.html e="2mYgb5tk"%}  |
-| {%include img.html path="a/a5/Grace_inventory_icon.png" s="30"%}               | **Grace**               | Useless | {%include trade.html e="qZDb3Sg"%}  | {%include trade.html e="Zm6E46hQ"%}  |
-| {%include img.html path="4/4c/Purity_of_Ice_inventory_icon.png" s="30"%}       | **Purity of Ice**       | Useless | {%include trade.html e="2KG2DSk"%}  | {%include trade.html e="02eZaGYFg"%} |
-| {%include img.html path="8/8f/Zealotry_inventory_icon.png" s="30"%}            | **Zealotry**            | Useless | {%include trade.html e="VGa2klCp"%} | {%include trade.html e="7zMwV2H5"%}  |
-| {%include img.html path="a/a2/Wrath_inventory_icon.png" s="30"%}               | **Wrath**               | Useless | {%include trade.html e="8kO72uV"%}  | {%include trade.html e="KeldrPH5"%}  |
-| {%include img.html path="9/9d/Mark_On_Hit_Support_inventory_icon.png" s="30"%} | **Mark on hit support** | {%include trade.html e="KBQ3dOPs5"%} | {%include trade.html e="aJZD7lBHe"%} | {%include trade.html e="Edd6gYyH5"%} |
+| {%include img.html path="d/d8/Determination_inventory_icon.png" s="30"%}       | **Determination**       | Useless | {%include trade_btn.html e="zb08zKc4"%} | {%include trade_btn.html e="lVjqY2IV"%}  |
+| {%include img.html path="c/c5/Vitality_inventory_icon.png" s="30"%}            | **Vitality**            | Useless | {%include trade_btn.html e="eRYvrUL"%}  | {%include trade_btn.html e="8L6DE2IV"%}  |
+| {%include img.html path="7/78/Purity_of_Fire_inventory_icon.png" s="30"%}      | **Purity of Fire**      | Useless | {%include trade_btn.html e="ZWppzSQ"%}  | {%include trade_btn.html e="YbEX2XsY"%}  |
+| {%include img.html path="3/39/Herald_of_Purity_inventory_icon.png" s="30"%}    | **Herald of Purity**    | Useless | {%include trade_btn.html e="RW562BS7"%} | {%include trade_btn.html e="pGlW0ef0"%}  |
+| {%include img.html path="5/57/Hatred_inventory_icon.png" s="30"%}              | **Hatred**              | Useless | {%include trade_btn.html e="v4BlXTE"%}  | {%include trade_btn.html e="2mYgb5tk"%}  |
+| {%include img.html path="a/a5/Grace_inventory_icon.png" s="30"%}               | **Grace**               | Useless | {%include trade_btn.html e="qZDb3Sg"%}  | {%include trade_btn.html e="Zm6E46hQ"%}  |
+| {%include img.html path="4/4c/Purity_of_Ice_inventory_icon.png" s="30"%}       | **Purity of Ice**       | Useless | {%include trade_btn.html e="2KG2DSk"%}  | {%include trade_btn.html e="02eZaGYFg"%} |
+| {%include img.html path="8/8f/Zealotry_inventory_icon.png" s="30"%}            | **Zealotry**            | Useless | {%include trade_btn.html e="VGa2klCp"%} | {%include trade_btn.html e="7zMwV2H5"%}  |
+| {%include img.html path="a/a2/Wrath_inventory_icon.png" s="30"%}               | **Wrath**               | Useless | {%include trade_btn.html e="8kO72uV"%}  | {%include trade_btn.html e="KeldrPH5"%}  |
+| {%include img.html path="9/9d/Mark_On_Hit_Support_inventory_icon.png" s="30"%} | **Mark on hit support** | {%include trade_btn.html e="KBQ3dOPs5"%} | {%include trade_btn.html e="aJZD7lBHe"%} | {%include trade_btn.html e="Edd6gYyH5"%} |
 
 ### Alva's temple
 
@@ -88,8 +88,8 @@ The 20/23 might be also worth and the 21/23 is if you want to try with Alva's te
 
 | Quality   | 20/20 (Buy) | 20/20 | 21/20 | 20/23 | 21/23 |
 |:----------|:-----------:|:-----:|:-----:|:-----:|:-----:|
-| Anomalous | {%include trade.html e="qXLWLjWfg"%} | {%include trade.html e="2dkOOjGik"%} | {%include trade.html e="P9ye9EmcL"%} | {%include trade.html e="mBEW9BrC6"%} | {%include trade.html e="4dXyEnEH9"%} |
-| Divergent | {%include trade.html e="pXbWEzbH0"%} | {%include trade.html e="YbWqky7cY"%} | {%include trade.html e="ze9MD6gc4"%} | {%include trade.html e="mX3QaZRf6"%} | {%include trade.html e="rYXMXL7UQ"%} |
+| Anomalous | {%include trade_btn.html e="qXLWLjWfg"%} | {%include trade_btn.html e="2dkOOjGik"%} | {%include trade_btn.html e="P9ye9EmcL"%} | {%include trade_btn.html e="mBEW9BrC6"%} | {%include trade_btn.html e="4dXyEnEH9"%} |
+| Divergent | {%include trade_btn.html e="pXbWEzbH0"%} | {%include trade_btn.html e="YbWqky7cY"%} | {%include trade_btn.html e="ze9MD6gc4"%} | {%include trade_btn.html e="mX3QaZRf6"%} | {%include trade_btn.html e="rYXMXL7UQ"%} |
 
 
 ## Awakening level

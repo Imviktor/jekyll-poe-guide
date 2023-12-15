@@ -10,15 +10,22 @@ aux_links:
     - "https://www.pathofexile.com/"
   "PoE Trade":
     - "https://www.pathofexile.com/trade"
+  "Currency Flip":
+    - "https://docs.google.com/spreadsheets/d/1L06aLQRHcynMLCJx4j0ZnXz4g3lOdZDeI6nbvBsdHlk/edit#gid=681736614"
+  "League Mechanics":
+    - "https://docs.google.com/spreadsheets/d/1fIs8sdvgZG7iVouPdtFkbRx5kv55_xVja8l19yubyRU/edit#gid=1017153704"
 
 aux_links_new_tab: true
 
 logo: "/assets/images/logo.png"
 
 # Color scheme supports "light" (default) and "dark"
-# color_scheme: dark
+color_scheme: dark
 
 callouts:
   warning:
     title: Warning
     color: red
+  info:
+    title: Info
+    color: blue

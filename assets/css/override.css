@@ -1,0 +1,13 @@
+@media (min-width: 66.5rem) {
+	.main {
+		margin-left: max(16.5rem, (100% - 66.5rem) / 2 + 16.5rem);
+	}
+}
+
+@media (min-width: 50rem) {
+	.main {
+		position: relative;
+		max-width: 75rem;
+		margin-left: 15.5rem;
+	}
+}
