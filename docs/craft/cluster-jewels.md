@@ -3,7 +3,7 @@ layout: default
 title: Cluster Jewels
 description: How to craft cluster jewels
 parent: Craft
-nav_order: 2
+nav_order: 1
 ---
 
 # Cluster Jewels
