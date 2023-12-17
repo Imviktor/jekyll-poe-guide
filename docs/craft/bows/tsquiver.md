@@ -2,7 +2,7 @@
 layout: default
 title: Stormshroud Boots
 description: Boots crafts
-parent: Boots
+parent: Bows and Quiver
 grand_parent: Craft
 nav_order: 1
 ---

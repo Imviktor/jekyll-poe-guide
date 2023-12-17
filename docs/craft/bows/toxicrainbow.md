@@ -2,7 +2,7 @@
 layout: default
 title: Toxic Rain Bow
 description: Bows crafts
-parent: Bows
+parent: Bows and Quiver
 grand_parent: Craft
 nav_order: 1
 ---
