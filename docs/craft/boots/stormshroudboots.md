@@ -11,9 +11,9 @@ nav_order: 1
 
 Craft boots to reach elemental ailment immunity with the stormshroud jewel.
 
-**Estimated craft cost**: 3 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
-**Estimated sell**: 7 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
-**Estimated profit**: 4 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
+ - **Estimated craft cost**: 3 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
+ - **Estimated sell**: 7 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
+ - **Estimated profit**: 4 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
 
 # Base item
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stormshroud Boots
+title: Physical TS Quiver
 description: Boots crafts
 parent: Bows and Quiver
 grand_parent: Craft
@@ -11,9 +11,9 @@ nav_order: 1
 
 Craft boots to reach elemental ailment immunity with the stormshroud jewel.
 
-**Estimated craft cost**: 3.5 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
-**Estimated sell**: 7 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
-**Estimated profit**: 3.5 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
+ - **Estimated craft cost**: 3.5 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
+ - **Estimated sell**: 7 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
+ - **Estimated profit**: 3.5 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
 
 # Base item
 
@@ -50,4 +50,4 @@ Sometimes it might be cheaper buying an existing one than crafting it.
 
 # Recommended video
 
-[video](https://www.youtube.com/watch?v=mvcDveMVlqk)
+[video](https://www.youtube.com/watch?v=9Ix9bT8zl1g)

@@ -11,9 +11,9 @@ nav_order: 1
 
 Craft toxic rain bow.
 
-**Estimated craft cost**: 2 (base) + 5 (bench) = 7 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
-**Estimated sell**: 10 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
-**Estimated profit**: 3 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
+ - **Estimated craft cost**: 2 (base) + 5 (bench) = 7 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
+ - **Estimated sell**: 10 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
+ - **Estimated profit**: 3 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
 
 {: .warning}
 > Important
