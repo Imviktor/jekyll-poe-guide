@@ -3,6 +3,7 @@ description: A guide to make currency in POE
 theme: just-the-docs
 
 url: https://imviktor.github.io/jekyll-poe-guide/
+baseurl: /jekyll-poe-guide
 
 # Aux links for the upper right navigation
 aux_links:

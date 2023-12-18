@@ -11,9 +11,9 @@ nav_order: 1
 
 Craft boots to reach elemental ailment immunity with the stormshroud jewel.
 
- - **Estimated craft cost**: 3.5 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
- - **Estimated sell**: 7 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
- - **Estimated profit**: 3.5 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
+ - **Estimated craft cost**: 27 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
+ - **Estimated sell**: 40 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
+ - **Estimated profit**: 13 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
 
 # Base item
 
@@ -21,16 +21,18 @@ Craft boots to reach elemental ailment immunity with the stormshroud jewel.
 
 # Target
 
-![image tooltip here](/assets/images/tsquiver.png)
+![target](/assets/images/tsquiver.png)
 
 # Materials
  
- |Link|Estimated cost|
- |-|-|
- |{%include trade.html e="jXXW7MRuX" txt="Fractured quiver" %}    | 1.5 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%} |
- |{%include trade.html e="RdmDVvRc7" txt="Wild Bristle Matron" %}| 1   {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%} |
- |{%include exchange.html e="n3eQ2bBT0" txt="Veiled Chaos Orb"%} | 6   {%include img.html path="9/9c/Chaos_Orb_inventory_icon.png"%} |
- |{%include exchange.html e="v5OqvMJtE" txt="Torment Essences"%} | 1{%include img.html path="5/58/Divine_Orb_inventory_icon.png"%} * 50{%include img.html path="c/c6/Shrieking_Essence_of_Torment_inventory_icon.png"%} |
+|Link|Estimated cost|
+|-|-|
+|{%include trade.html e="jXXW7MRuX" txt="Fractured quiver" %}    | 10 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%} |
+|{%include exchange.html e="eRa8q0ohL" txt="Contempt Essences"%} | 5 (1{%include img.html path="5/58/Divine_Orb_inventory_icon.png"%} * 18{%include img.html path="0/04/Deafening_Essence_of_Contempt_inventory_icon.png"%}) |
+|{%include exchange.html e="d82bUJ" txt="Exalted Orb"%}          | 1 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%} |
+| {%include exchange.html e="54DEyRnTa" txt="Orb of Annulment"%} | 1 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%} |
+| Cannot roll attach modifiers bench craft                       | 10 |
+
  
 
 # Steps to craft
