@@ -26,7 +26,7 @@ Craft toxic rain bow.
 
 # Target
 
-![image tooltip here](/assets/images/thicket-bow.png)
+![image tooltip here](/jekyll-poe-guide/assets/images/thicket-bow.png)
 
 # Materials
  

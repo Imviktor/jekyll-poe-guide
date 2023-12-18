@@ -21,7 +21,7 @@ Craft boots to reach elemental ailment immunity with the stormshroud jewel.
 
 # Target
 
-![target](/assets/images/tsquiver.png)
+![target](/jekyll-poe-guide/assets/images/tsquiver.png)
 
 # Materials
  
