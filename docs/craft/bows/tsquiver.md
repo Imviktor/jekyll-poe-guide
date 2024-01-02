@@ -11,9 +11,9 @@ nav_order: 1
 
 Craft boots to reach elemental ailment immunity with the stormshroud jewel.
 
- - **Estimated craft cost**: 27 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
+ - **Estimated craft cost**: 20 - 30 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
  - **Estimated sell**: 40 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
- - **Estimated profit**: 13 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
+ - **Estimated profit**: 10 - 20 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%}.
 
 # Base item
 
@@ -28,21 +28,20 @@ Craft boots to reach elemental ailment immunity with the stormshroud jewel.
 |Link|Estimated cost|
 |-|-|
 |{%include trade.html e="jXXW7MRuX" txt="Fractured quiver" %}    | 10 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%} |
-|{%include exchange.html e="eRa8q0ohL" txt="Contempt Essences"%} | 5 (1{%include img.html path="5/58/Divine_Orb_inventory_icon.png"%} * 18{%include img.html path="0/04/Deafening_Essence_of_Contempt_inventory_icon.png"%}) |
+|{%include exchange.html e="eRa8q0ohL" txt="Contempt Essences"%} | 3 (1{%include img.html path="5/58/Divine_Orb_inventory_icon.png"%} * 18{%include img.html path="0/04/Deafening_Essence_of_Contempt_inventory_icon.png"%}) |
 |{%include exchange.html e="d82bUJ" txt="Exalted Orb"%}          | 1 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%} |
 | {%include exchange.html e="54DEyRnTa" txt="Orb of Annulment"%} | 1 {%include img.html path="5/58/Divine_Orb_inventory_icon.png"%} |
-| Cannot roll attach modifiers bench craft                       | 10 |
+| Cannot roll attach modifiers bench craft                       | 5 - 15 |
 
  
 
 # Steps to craft
 
- 1. Make the boots rare if they are not.
- 2. Use torment essences until you reach a 44%+ resistance or 30% chaos resistance.
- 3. Use a wild bristle matron for **suffixes cannot be changed** and a veiled chaos orb.
- 4. Block mana.
- 5. Unveil any movement speed modifier.
- 6. Craft life.
+ 1. Use essences of contempt until you reach tier 1 of **Critical Strike Multiplier with Bows**.
+ 2. Annul until you get the Essence and the Crit Multi mods.
+ 3. Craft **Cannot roll attack modifiers** and exalt to get good mods of **life** and **damage with bow skills**
+ 4. If the tiers are not OK, annul. If you lose the **Cannot roll attack modifiers** you will have to craft it again.
+ 5. Craft attack speed on the bench.
 
 # Final item link
 

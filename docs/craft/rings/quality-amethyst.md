@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Omni Rings
-description: Omni Rings crafts
+title: Quality Amethysts
+description: Quality Amethysts crafts
 parent: Rings
 grand_parent: Craft
 nav_order: 1
@@ -21,7 +21,7 @@ Craft boots to reach elemental ailment immunity with the stormshroud jewel.
 
 # Target
 
-![Omniscience ring](/jekyll-poe-guide/assets/images/stormshroud-boots.png)
+![image tooltip here](/assets/images/stormshroud-boots.png)
 
 # Materials
  
